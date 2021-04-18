@@ -1,0 +1,8 @@
+{
+    "name": "vendor/mp3shop",
+    "description": "mp3 shop",
+    "require": {
+        "php": ">=7.0",
+        "limingzhao/package": "1.0"
+    }
+}
