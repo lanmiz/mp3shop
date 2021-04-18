@@ -2,7 +2,6 @@
     "name": "vendor-lanmiz/mp3shop",
     "description": "mp3 shop",
     "require": {
-        "php": ">=7.0",
-        "limingzhao/package": "1.0"
+        "php": ">=7.0"
     }
 }
