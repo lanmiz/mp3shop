@@ -1,6 +1,7 @@
 {
     "name": "lanmiz/mp3shop",
     "description": "mp3 shop",
+    "license": "MIT",
     "require": {
         "php": ">=7.0"
     }
