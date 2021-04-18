@@ -1,5 +1,5 @@
 {
-    "name": "lanmiz/mp3shop",
+    "name": "vendor-lanmiz/mp3shop",
     "description": "mp3 shop",
     "license": "MIT",
     "require": {
