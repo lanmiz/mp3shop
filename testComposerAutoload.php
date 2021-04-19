@@ -1,5 +1,7 @@
 <?php 
 
+namespace mp3shop\testComposerAutoload;
+
 class testComposerAutoload
 {
 	/**
