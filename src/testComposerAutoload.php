@@ -1,8 +1,8 @@
 <?php 
 
-namespace mp3shop\testComposerAutoload;
+namespace Lanmiz\Mp3shop;
 
-class testComposerAutoload
+class TestComposerAutoload
 {
 	/**
 	 * 
